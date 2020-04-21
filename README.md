@@ -39,9 +39,6 @@
 <a href="https://github.com/babayaga9823/SQL/blob/master/prasql1.sql">prasql1.sql</a> <br>
 
 
-<a href="https://github.com/babayaga9823/SQL/blob/master/_config.yml">_config.yml</a> <br>
-
-
 <a href="https://github.com/babayaga9823/SQL/blob/master/lab.sql">lab.sql</a> <br>
 
 
